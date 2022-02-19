@@ -1,2 +1,2 @@
 # DemoGit
-Very short git demo, so we should make it longer
+Very short git demo
